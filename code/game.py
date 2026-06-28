@@ -1,4 +1,4 @@
-import pygame
+import pygame.display
 
 from code.Level import Level
 from code.Menu import Menu

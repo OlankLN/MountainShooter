@@ -1,12 +1,7 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 import pygame.image
 from pygame import Surface, Rect
 from pygame.font import Font
-
 from code.const import C_ORANGE, WIN_WIDTH, MENU_OPTION, C_YELLOW, C_WHITE, C_PINK
-
 
 class Menu:
     def __init__(self, window):
